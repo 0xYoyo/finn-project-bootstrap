@@ -1,0 +1,10 @@
+{
+  "name": "finn-project-bootstrap",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "validate:skill": "python3 /Users/yoyopc/.codex/skills/.system/skill-creator/scripts/quick_validate.py skills/finn-project"
+  }
+}

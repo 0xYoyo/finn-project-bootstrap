@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finn Project"
+  short_description: "Set up and manage isolated Finn-loop projects"
+  default_prompt: "Set up or inspect this repository as an isolated Finn-loop project."
